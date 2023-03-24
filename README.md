@@ -52,13 +52,14 @@
 ### 📈 GitHub Activity Graph:
 [![Avellars github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AVELLARS&theme=github-compact)](https://github.com/AVELLARS/github-readme-activity-graph)
 
-|<div>
+    
+<div>
 <a href="https://github.com/AVELLARS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVELLARS&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVELLARS-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 **📫 How to Reach me:**
 <p align="left">
